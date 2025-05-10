@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhavan M</h1>
-<h3 align="center">Aspiring Solutions Engineer | Python Enthusiast | Technical Services </h3>
+<h3 align="center">Aspiring Solutions Engineer | Python Enthusiast | Technical Service</h3>
 
 <p align="center">
   <a href="mailto:maddyishm80085@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -50,6 +50,13 @@
   <span>Joins, Aggregation, Data Retrieval</span>
 </p>
 
+#### 🧰 Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Anaconda_Logo.png" width="40" height="40" alt="Anaconda Navigator"/>
+</p>
+
 ---
 
 ### 📌 Projects
@@ -84,4 +91,4 @@
 
 _“Code, learn, iterate – repeat.”_ ✨
 
-  
+
