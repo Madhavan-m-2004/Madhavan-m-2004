@@ -1,41 +1,87 @@
-## 👋 Hi, I'm Madhavan M!
+<h1 align="center">Hi 👋, I'm Madhavan M</h1>
+<h3 align="center">Aspiring Solutions Engineer | Python Enthusiast | Technical Services </h3>
 
-Detail oriented and motivated Computer Science graduate 🎓 with hands on experience in Python, SQL, data 
-analysis, and web technologies.🔧Seeking an entry level Solutions Engineer or Technical Services role to apply 
-technical, analytical, and stakeholder management skills in a client facing environment. Strong 
-communicator with a passion for problem solving and technical troubleshooting.
+<p align="center">
+  <a href="mailto:maddyishm80085@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/madhavan-m2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-### 💼 Experience
-- 📊 **Data Science Intern** @ Shiash Info Solutions  
-- Accomplished personalized music recommendations with 92% accuracy by implementing 
-collaborative and content-based filtering using cosine similarity. 
-- Processed and analyzed 10,000+ user-song interactions to improve data quality and model relevance 
-using Pandas, NumPy, and Scikit-Learn. 
-- Increased simulated user engagement by 35% through a custom-built Tkinter UI and continuous 
-optimization via A/B testing.
+---
 
-### 🚀 Projects
-- 🎵 **Music Recommendation System** –Accomplished personalized music recommendations with 92% accuracy by implementing 
-collaborative and content-based filtering using cosine similarity. 
-- Processed and analyzed 10,000+ user-song interactions to improve data quality and model relevance 
-using Pandas, NumPy, and Scikit-Learn. 
-- Increased simulated user engagement by 35% through a custom-built Tkinter UI and continuous 
-optimization via A/B testing.
+🔧 **About Me**  
+🎓 I'm a Computer Science graduate from A.M. Jain College with hands-on experience in data analysis, machine learning, and web development.  
+🎯 Seeking entry-level roles in Solutions Engineering or Technical Services to leverage my skills in Python, SQL, and problem-solving.  
+🛠️ Passionate about building solutions, collaborating with teams, and continuous learning.
 
-- 🖥️ **Tech Blog Website** – Accomplished a fully functional tech blog platform as measured by a 40% increase in page views by 
-developing a responsive WordPress site with custom themes. 
-- Enhanced site discoverability by 60% by integrating SEO plugins, optimizing metadata, and enabling 
-Google Analytics for traffic insights. 
-- Improved user engagement and site performance through content publishing, UX optimization, and 
-performance tracking strategies.
- 
-### 🛠️ Skills
-- **Programming & Scripting**: Python, SQL, basic Java 
-- **Data Analysis & ML**: Pandas, NumPy, Scikit-Learn 
-- **Data Visualization**: Matplotlib, Seaborn 
-- **Web Development**: HTML, CSS, WordPress 
-- **Databases**: SQL (Joins, Aggregation, Data Retrieval) 
-- **Tools & Others**: Troubleshooting, Technical Documentation, Stakeholder Collaboration
+---
 
-📫 Reach me at: maddyishm80085@gmail.com  or madhavanm0024@gmail.com
-🌐 [LinkedIn](https://www.linkedin.com/in/madhavan-m2004)
+### 🛠️ Technical Skills
+
+#### 👨‍💻 Programming & Scripting
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+#### 📊 Data Analysis & Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40" alt="Scikit-Learn"/>
+</p>
+
+#### 📈 Data Visualization
+<p align="left">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" alt="Seaborn"/>
+</p>
+
+#### 🌐 Web Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <span>Joins, Aggregation, Data Retrieval</span>
+</p>
+
+---
+
+### 📌 Projects
+
+#### 🎵 Music Recommendation System
+- Built using Python, Pandas, NumPy, Scikit-Learn
+- Implemented collaborative + content-based filtering (92% accuracy)
+- UI with Tkinter and A/B tested improvements
+
+#### 📝 MAVROH - WordPress Developer Blog
+- Created a responsive blog with SEO optimization
+- Custom WordPress theme, traffic analytics & UX enhancement
+- Focus on content publishing and technical blogging
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhavan-m-2004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan-m-2004&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📍 Chennai, Tamil Nadu  
+- 📧 Email: maddyishm80085@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/madhavan-m2004)
+
+---
+
+_“Code, learn, iterate – repeat.”_ ✨
+
+  
